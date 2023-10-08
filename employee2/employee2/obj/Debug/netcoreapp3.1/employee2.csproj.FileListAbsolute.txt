@@ -1,0 +1,14 @@
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.exe
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.deps.json
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.runtimeconfig.json
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.runtimeconfig.dev.json
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.dll
+C:\Users\tomio\source\repos\employee2\employee2\bin\Debug\netcoreapp3.1\employee2.pdb
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.csproj.AssemblyReference.cache
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.AssemblyInfoInputs.cache
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.AssemblyInfo.cs
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.csproj.CoreCompileInputs.cache
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.dll
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.pdb
+C:\Users\tomio\source\repos\employee2\employee2\obj\Debug\netcoreapp3.1\employee2.genruntimeconfig.cache
